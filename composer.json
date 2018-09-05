@@ -1,5 +1,5 @@
 {
-    "name": "aleksandrzhiliaev/omnipay-payeer",
+    "name": "ofumbi/omnipay-payeer",
     "type": "library",
     "description": "Payeer gateway for Omnipay payment processing library",
     "keywords": [
@@ -11,26 +11,26 @@
         "payeer",
         "purchase"
     ],
-    "homepage": "http://sassoft.ru",
+    "homepage": "http://appfinex.com",
     "license": "",
     "authors": [
         {
-            "name": "Aleksandr Zhiliaev",
-            "email": "sassoftinc@gmail.com"
+            "name": "Ofumbi Stephen",
+            "email": "appfinex@gmail.com"
         }
     ],
     "autoload": {
         "psr-4": { "Omnipay\\Payeer\\" : "src/" }
     },
     "require": {
-        "omnipay/common": "~2.0"
+        "omnipay/common": "~3.0"
     },
     "require-dev": {
-        "omnipay/tests": "~2.0"
+        "omnipay/tests": "~3.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "1.x-dev"
+            "dev-master": "3.x-dev"
         }
     }
 }
