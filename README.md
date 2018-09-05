@@ -1,4 +1,4 @@
-# omnipay-payeer
+# omnipay-payeer (for Omnipay V3)
 [![Build Status](https://travis-ci.org/aleksandrzhiliaev/omnipay-payeer.svg?branch=master)](https://travis-ci.org/aleksandrzhiliaev/omnipay-payeer)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/55a566d55cbd4192b6a49cd753c39dde)](https://www.codacy.com/app/sassoftinc/omnipay-payeer?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=aleksandrzhiliaev/omnipay-payeer&amp;utm_campaign=Badge_Grade)
 [![Total Downloads](https://poser.pugx.org/aleksandrzhiliaev/omnipay-payeer/downloads)](https://packagist.org/packages/aleksandrzhiliaev/omnipay-payeer)
@@ -16,7 +16,7 @@ to your `composer.json` file:
 ```json
 {
     "require": {
-        "aleksandrzhiliaev/omnipay-payeer": "*"
+        "ofumbi/omnipay-payeer": "*"
     }
 }
 ```
