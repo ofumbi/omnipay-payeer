@@ -1,5 +1,5 @@
 {
-    "name": "ofumbi/omnipay-payeer",
+    "name": "geekfil/omnipay-payeer",
     "type": "library",
     "description": "Payeer gateway for Omnipay payment processing library",
     "keywords": [
