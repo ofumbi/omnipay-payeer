@@ -18,7 +18,13 @@ to your `composer.json` file:
     "require": {
         "ofumbi/omnipay-payeer": "*"
     }
-}
+},
+"repositories": [
+        {
+            "type": "git",
+            "url": "https://github.com/geekfil/omnipay-payeer.git"
+        }
+],
 ```
 
 And run composer to update your dependencies:
